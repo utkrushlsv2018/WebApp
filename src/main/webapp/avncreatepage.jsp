@@ -103,7 +103,7 @@ select{
  
 <b>Product &#160;&#160;&#160;&#160;&#160</b>;<select name="product">
   <option value="SELECT">--Select--</option>
-  <option value="WIRELESS">Wireless</option>
+  <option value="WIRELESS">WIRELESS</option>
   <option value="BROADBAND">BROADBAND</option>
   <option value="PAYMENT">PAYMENT</option>
   </select><br>
