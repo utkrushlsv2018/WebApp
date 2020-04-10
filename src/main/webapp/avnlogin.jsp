@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>AVNLogin</title>
+  <title>Marslander Telecom</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -15,7 +15,7 @@
 </head>
 <style>
 body {
-  background: #e9e9e9;
+  background: url(assets/img/Img-79.jpeg);
   color: #666666;
   font-family: 'RobotoDraft', 'Roboto', sans-serif;
   font-size: 14px;
@@ -23,9 +23,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .pen-title h1 {
-  margin: 0 0 20px;
-  font-size: 48px;
-  font-weight: 300;
+  background-color: #f1f1f1;
+  padding: 20px;
   text-align: center;
 }
 .pen-title span {
@@ -39,6 +38,7 @@ body {
   font-weight: 600;
   text-decoration: none;
 }
+
 /* Form Module */
 .form-module {
   position: absolute;
@@ -144,7 +144,8 @@ body {
 position: absolute;
     left: 60px;
 	top: 210px;
-    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #e6e6e6 0%, #ffffff 100%) repeat scroll 0 0;
+   
+    background: #a9bfd4;
     border: 1px solid #cbcbcb;
     border-radius: 5px;
     min-height: 285px;
@@ -158,23 +159,66 @@ position: absolute;
     left: 450px;
 }
 
+.grid-img{
+	width:800px;
+	height:100%;
+}
+.grid-img div{
+	width:100%;
+	height:150px;
+}
+.grid-top-row .img-logo,.grid-last-row .img-logo{
+display:inline-block;
+    width: 49%;
+    
+  
+    border: 2px solid #e4d0d0;
+}
+
+.img-logo img {
+    width: 390px;
+    height: 130px;
+    background-size:100% 100%;
+}
+.img-logo span{
+text-align: center;
+    font-weight: bold;
+    display: block;
+    font-size: 14px;
+}
+
+
+
+
 </style>
 <body>
 <div id="headlinks">
 <p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
 </div><br>
-<img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
+<! img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;"!>
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#000000;font-size: 350%;position:absolute;left:460px;top:80px;"> MARSLANDER TELECOM</h1></b>
 <br><br><br>
+
 <section class="wlp-login-message-content">
-<p><b>
+<div class = "grid-img">
+	<div class = "grid-top-row">
+	<div class= "img-logo ">  <img src = "./assets/img/Wifi-logo.png" alt = "LOGO"/><span>Wireless</span></div>
+<div class= "img-logo ">	<img src = "./assets/img/tv-logo-1.jpg" alt = "LOGO"/><span>Television</span></div>
+	</div> 
+	
+	<div class= "grid-last-row">
+	<div class= "img-logo ">	<img src = "./assets/img/Phone.jpg"/><span>Telephone and Mobile</span></div>
+	<div class= "img-logo ">	<img src = "./assets/img/Fiber.jpg"/><span>Fibre Optic</span></div>
+		</div>
+</div>
+<!-- <p><b>
 <i>
 <font color="darkorange">Help Desk</font>
 </i>
 </b>
 <br><br>
-The Mars Help Desk, can assist with issues and concerns regarding:
+The T-Talk Help Desk, can assist with issues and concerns regarding:
 <br><br>
 <i>
 <font color="orange"> Troubleshooting problems</font>
@@ -197,7 +241,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
  Wholesale Customer Care:
 <br>
  333-333-3333 or 555-555-5555
-</p>
+</p>-->
 </section>
 <div class="module form-module">
   <div class="toggle">
@@ -213,9 +257,9 @@ The Mars Help Desk, can assist with issues and concerns regarding:
    <div class="cta"><a href="">Forgot your password?</a></div>
    </div>
    <p class="text-center">
-   <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
-   | India | Singapore | Belgium | USA |
+   <span id="fullyear">2015</span>
+   &#169; Marslander Telecom. All Rights Reserved.<br>
+   | India | Singapore | UK | USA |
   </p>
  </body>
  </html>
