@@ -81,7 +81,7 @@ body{
 <div class="site-body">
 	<h2>WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
 	<section class="list-cntr" style="left: 120px;top: 210px;">
-	<p>MOBILE</p>
+	<p>WIRELESS</p>
 	<a href="">Create</a>
 	<a href="">View</a>
 	<a href="">Configure</a>
