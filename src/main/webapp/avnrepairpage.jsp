@@ -6,7 +6,7 @@
 <title>Repair Page</title>
 <style>
 body{
-background-color: #f9f8f7;
+ background: url(assets/img/img-75.jpg);
 }
 table {
 	
