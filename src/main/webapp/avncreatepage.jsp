@@ -94,7 +94,7 @@ select{
 
 <div id="headerone">
 <h2>
-<font size="5" style="background-color:white" color="#4d4d69">Enter the details to create Service Request</font>
+<font size="5" style="background-color:white" color="#4d4d69">Enter the details to create Ticket</font>
  </h2>
 </div>
 
