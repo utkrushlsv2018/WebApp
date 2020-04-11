@@ -88,13 +88,13 @@ select{
 <body>
 <div id="header">
 <h1>
-<b><font size="5" color="#4d4d69">Create Repair Ticket</font></b>
+<b><font size="5" color="#4d4d69">Create Service Request</font></b>
 </h1>
 </div>
 
 <div id="headerone">
 <h2>
-<font size="5" style="background-color:white" color="#4d4d69">Enter the details to create ticket</font>
+<font size="5" style="background-color:white" color="#4d4d69">Enter the details to create Service Request</font>
  </h2>
 </div>
 
